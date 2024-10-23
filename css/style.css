@@ -385,9 +385,9 @@ ol {
 
 .header__logo {
   position: absolute;
-  left: 50%;
-  top: 25px;
-  margin-left: -60px;
+  left: 40%;
+  top: -97px;
+  margin-left: 0px;
 }
 .header__logo a {
   display: inline-block;
